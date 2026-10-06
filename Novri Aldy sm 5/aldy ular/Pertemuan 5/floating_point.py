@@ -1,0 +1,2 @@
+angka_float = 4.4983249329849832649869805498326498613294871329847
+print(f"angka float: {angka_float}")

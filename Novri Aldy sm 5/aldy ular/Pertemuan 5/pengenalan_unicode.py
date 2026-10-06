@@ -1,0 +1,2 @@
+pesan = "😹😹😹😹😹😹😹"
+print(pesan)
